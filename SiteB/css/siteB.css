@@ -1,1 +1,56 @@
-
+body{
+    background-color:yellow;
+    
+}
+table{border-collapse: collapse;}
+}
+img{
+  width: 100px;
+    height: 100px;
+}
+#StudioArt td{
+    border:2px solid white
+}
+#StudioArt th{
+    border:2px solid white
+}
+#StudioArt{
+    background-image: linear-gradient(darkblue,cyan);
+    color:white;
+}
+#Judith-big{
+    width:100px;
+    height:100px;
+}
+#Economics td,th{
+    border:2px solid white;
+}
+#Economics{
+    background-color: rgb(0, 17, 255);
+        color: rgb(255, 145, 0);
+}
+#Alex-small{
+    width:100px;
+        height:100px;
+}
+#ComputerScience{
+    background-color: rgb(8,39,245);
+    color:white;
+}
+#ComputerScience td,th{
+    border:2px solid white    
+}
+#Mathematics{
+    background-color:green;
+    color:white;
+}
+#Mathematics td,th{
+    border:2px solid white;
+}
+#Politics{
+    background-color:black;
+    color:white;
+}
+#Politics td,th{
+    border:2px solid white;
+}

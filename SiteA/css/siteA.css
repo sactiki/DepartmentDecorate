@@ -1,1 +1,22 @@
 
+body{
+    font-family: sans-serif;
+    background-color: #2F2FA2;
+    color: white;
+}
+a{
+ color:white;   
+}
+img{
+    width: 100px;
+    height: 100px;
+}
+th{
+    border:2px solid white
+}
+td{
+    border: 2px solid white
+}
+table{
+    border-collapse: collapse;
+}
